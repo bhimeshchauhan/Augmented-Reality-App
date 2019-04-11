@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AugmentaeAR</string>
+    <string name="object_renderer">Render OBject</string>
+</resources>
